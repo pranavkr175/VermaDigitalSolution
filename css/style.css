@@ -65,7 +65,7 @@ body{
 
 
 #services{
-    margin: 40px 5px 40px 10px;
+    margin: 40px 10px 40px 10px;
     padding-top: 20px;
     text-align: center;
     
@@ -326,7 +326,7 @@ body{
 
       .cardimg img{
         padding: 10px;
-        margin-left: 30px;
+        margin-left: 50px;
         height: 100px;
         width: 100px;
     
