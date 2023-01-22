@@ -21,7 +21,7 @@ body{
 .logo{
     height: 50px;
     width: 50px;
-    margin: -5px 5px -5px -5px;
+    margin: -5px 5px 5px -5px;
 }
 
 
@@ -81,10 +81,8 @@ body{
 }
 
 .cardimg img{
-    padding: 10px;
-    margin-left: 35px;
-    height: 150px;
-    width: 150px;
+    padding: 20px;
+    
 
 }
 
@@ -325,10 +323,8 @@ body{
       }
 
       .cardimg img{
-        padding: 10px;
-        margin-left: 70px;
-        height: 150px;
-        width: 150px;
+        padding: 30px;
+        
     
     }
 
